@@ -1,6 +1,6 @@
 # JenkinsPipelineExecutionlogs
-<img width="637" height="714" alt="Screenshot 2025-09-15 110805" src="https://github.com/user-attachments/assets/3311c082-c9f5-44f9-a5ad-b4b8e94e70d2" />
-<img width="643" height="692" alt="Screenshot 2025-09-15 110854" src="https://github.com/user-attachments/assets/e5180ac9-ee04-4d1a-b9b3-7ecae1d17f7f" />
+<img width="637" height="644" alt="Screenshot 2025-09-15 110805" src="https://github.com/user-attachments/assets/e405e950-553f-40f3-b39d-617638cbc7c6" />
+<img width="643" height="654" alt="Screenshot 2025-09-15 110854" src="https://github.com/user-attachments/assets/a52e263d-1b4a-4c06-bf46-f7fc9dc6051d" />
 <img width="658" height="648" alt="Screenshot 2025-09-15 110951" src="https://github.com/user-attachments/assets/35914a84-6b16-4bae-ab7f-33741505ebda" />
 <img width="659" height="663" alt="Screenshot 2025-09-15 111020" src="https://github.com/user-attachments/assets/9ef71ae7-69d5-4afe-8cdc-d60003ad39b8" />
 <img width="652" height="658" alt="Screenshot 2025-09-15 111046" src="https://github.com/user-attachments/assets/ce639b33-9d2f-40e2-a433-39dddcc89a0e" />
